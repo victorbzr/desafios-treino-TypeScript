@@ -1,0 +1,24 @@
+{
+  "name": "desafios-treino-typescript",
+  "version": "1.0.0",
+  "description": "Projeto de treino sobre typescript do Santander Bootcamp 2022 contendo 4 desafios",
+  "main": "desafio2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbzr/desafios-treino-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorbzr/desafios-treino-TypeScript/issues"
+  },
+  "homepage": "https://github.com/victorbzr/desafios-treino-TypeScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
